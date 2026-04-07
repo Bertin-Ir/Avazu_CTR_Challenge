@@ -1,4 +1,4 @@
-# Avazu_CTR_Challenge
+# Web & App Ad Click-Through Rate Prediction System
 
 ##  Overview
 
